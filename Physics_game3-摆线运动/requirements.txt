@@ -1,0 +1,7 @@
+# Python version >= 3.6 recommended
+# No external dependencies required - all modules used are part of Python standard library:
+# - tkinter
+# - math
+# - time 
+
+tk>=8.6.0 
