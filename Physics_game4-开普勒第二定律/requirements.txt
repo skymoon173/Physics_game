@@ -1,0 +1,2 @@
+numpy>=1.21.0
+tkinter  # 通常包含在Python标准库中，不需要单独安装 
